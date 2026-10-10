@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <b>Free 1.4.0</b> · <b>Pro add-on 1.0.0</b> · WordPress 5.3+ · PHP 7.2+ · English, Persian, Arabic
+  <b>Free 1.5.0</b> · <b>Pro add-on 1.1.0</b> · WordPress 5.3+ · PHP 7.2+ · Follows your WordPress language
 </p>
 
 ---
@@ -27,7 +27,7 @@
 ## What it does
 
 - **Guided conversations.** Visitors pick what they need (product information, a quote, a word with your team) and the chat walks them through the steps you defined.
-- **A form builder, not a script.** Build any flow from choices, typed answers, form fields, quantities and contact details. Reorder, duplicate or switch forms off without touching code.
+- **A form builder, not a script.** Start from a template, pick an icon, and build any flow from choices, typed answers, form fields, quantities and contact details, with a live preview beside it.
 - **Every channel you use.** WhatsApp, Telegram, Messenger, Instagram, LinkedIn, Discord, GitHub, email or a custom link, each with its own icon.
 - **Nothing gets lost.** Every request is saved in WordPress first, then emailed, and WhatsApp or email can open with the whole request already written.
 - **Built for real sites.** The chat renders in its own isolated layer, so theme CSS can't break it and it can't break the theme. On phones it sits under your menu until it's opened, then above everything.
@@ -41,11 +41,11 @@ The free plugin is complete on its own. Pro is an add-on that installs beside it
 | Unlimited forms and requests | ✓ | ✓ |
 | Contact buttons and bottom bar with brand icons | ✓ | ✓ |
 | Requests saved in WordPress and emailed | ✓ | ✓ |
-| Colour themes, button shapes, phone settings, Custom CSS | ✓ | ✓ |
-| Persian, Arabic and every WordPress language | ✓ | ✓ |
+| Colour and gradient themes, button shapes, phone settings, Custom CSS | ✓ | ✓ |
+| Follows your WordPress language, including right-to-left | ✓ | ✓ |
 | AI answers with your own Claude or OpenAI key | | ✓ |
-| Ready answers with synonyms and typo tolerance | | ✓ |
-| Products & categories with pictures | | ✓ |
+| Ready answers with synonyms, typo tolerance and trigger words in other languages | | ✓ |
+| Products & categories: your own or live from WooCommerce, with price, offer, tags and a buy button | | ✓ |
 | Five button animations | | ✓ |
 | No "Powered by" link (opt-in on Free) | | ✓ |
 
@@ -64,12 +64,12 @@ Fill in the channels you use, then choose which appear as **contact buttons** (w
 ## Your language
 
 <p align="center">
-  <img src="media/persian-chat.png" width="320" alt="The chat in Persian, right to left">
+  <img src="media/rtl-chat.png" width="320" alt="The chat on a right-to-left site">
 </p>
 
-<img src="media/persian-dashboard.png" alt="The dashboard in Persian, right to left">
+<img src="media/rtl-dashboard.png" alt="The dashboard in a right-to-left language">
 
-The plugin follows the language set in WordPress. Persian and Arabic ship complete, with right-to-left layout and the Vazirmatn font, and the plugin can be translated into any other language. Arabic-speaking visitors on a site in another language get Arabic replies.
+The plugin follows the language set in WordPress, including right-to-left languages, and can be translated into any language.
 
 ## The dashboard
 
@@ -91,7 +91,38 @@ Three shapes on Free. Pro adds five animations: Spinning border, Floating, Rippl
 
 ### Forms
 
-<img src="media/forms.png" alt="The form builder showing the steps of a quote form">
+<img src="media/forms.png" alt="The form builder: your forms, the open form with numbered steps, and a live chat preview">
+
+Forms, steps and a preview side by side. New forms start from a template, each form gets an icon from a gallery, and every field explains itself.
+
+<p align="center">
+  <img src="media/form-templates.png" width="49%" alt="Templates for a new form">
+  <img src="media/form-icons.png" width="49%" alt="The form icon gallery">
+</p>
+
+### Products & categories (Pro)
+
+<img src="media/products.png" alt="A product open for editing: basics, price and button, and chat answers">
+
+Add your own products or link them from WooCommerce. A linked product keeps its shop name, price, sale, picture and page up to date; anything typed here only changes what the chat shows.
+
+<p align="center">
+  <img src="media/woocommerce.png" width="58%" alt="Picking products from a WooCommerce shop">
+  &nbsp;
+  <img src="media/product-card.png" width="36%" alt="A product card in the chat with price, offer, tags and a buy button">
+</p>
+
+### Answers (Pro)
+
+<img src="media/answers.png" alt="Answers shown as chat bubbles, with trigger words and trigger words in other languages as chips">
+
+Each answer reads like the chat itself. Trigger words are chips, and words in other languages have their own list.
+
+### Gradient themes
+
+<img src="media/gradients.png" alt="Colour themes, gradient themes and a custom gradient">
+
+Solid and gradient themes, or your own two colours and angle. The gradient runs across the header, the buttons and the visitor's messages. The inside of the chat button can follow the theme, take any colour, or be transparent.
 
 ### Custom CSS with a built-in guide
 

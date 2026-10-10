@@ -1,10 +1,21 @@
 # Changelog
 
+## Free 1.5.0 and Pro 1.1.0: a new forms page, products, answers and gradients
+
+- **Forms redesigned.** Three columns: your forms, the open form, and a live preview of it in the chat. New forms start from a template (quote, appointment, question, callback, support or blank), each form's icon is picked from a gallery, steps come from a visual gallery, and a short guide explains how it all fits together.
+- **Products & categories and Answers moved under Forms.** Old links redirect.
+- **Products (Pro):** your own products or live links to WooCommerce products. New fields: tags, price, offer, button text and link, and more details. Product cards in the chat show all of them.
+- **Answers (Pro):** each answer reads like the chat, trigger words are chips, and trigger words in other languages have their own list.
+- **Gradient themes:** Aurora, Ocean, Sunrise, Violet and Electric, plus a custom two-colour gradient with an angle. Both colours are checked for readable white text on save.
+- **Inside the button:** follow the theme, choose a colour, or make it transparent.
+- Language names removed from settings and descriptions; the plugin simply follows the WordPress language.
+- Fixed: a quote mark typed into a form no longer breaks saving.
+
 ## Free 1.4.0 and Pro 1.0.0: channels, languages, Free and Pro
 
 - Contact channels: WhatsApp, Telegram, Facebook, Instagram, LinkedIn, Discord, GitHub, email and a custom link, each with its brand icon. Choose the contact buttons and up to three for the bottom bar.
 - Free and Pro: AI answers, ready answers, products and categories and button animations move to the new Aivanta Chat Pro add-on, unlocked by a license key checked offline.
-- Persian and Arabic translations with right-to-left layout and the Vazirmatn font; every other WordPress language through translation.
+- Translations with right-to-left layout; every WordPress language through translation.
 - Default settings follow a change of site language.
 - An optional "Powered by" link, off until the site owner switches it on.
 - The free plugin passes WordPress's Plugin Check with no errors.
@@ -12,7 +23,7 @@
 ## 1.3.1: Aivanta Chat
 
 - New name and logo, in the dashboard menu, page headers and License page.
-- A clean default template: general forms, starter answers in English and Arabic, and the new logo as the default chat icon.
+- A clean default template: general forms, starter answers, and the new logo as the default chat icon.
 - Two copies of the plugin active at once no longer crash the site; the second one steps aside and says so.
 
 ## 1.3.0: Phones and Custom CSS
