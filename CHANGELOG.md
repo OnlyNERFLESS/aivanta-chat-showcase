@@ -1,5 +1,14 @@
 # Changelog
 
+## Free 1.4.0 and Pro 1.0.0: channels, languages, Free and Pro
+
+- Contact channels: WhatsApp, Telegram, Facebook, Instagram, LinkedIn, Discord, GitHub, email and a custom link, each with its brand icon. Choose the contact buttons and up to three for the bottom bar.
+- Free and Pro: AI answers, ready answers, products and categories and button animations move to the new Aivanta Chat Pro add-on, unlocked by a license key checked offline.
+- Persian and Arabic translations with right-to-left layout and the Vazirmatn font; every other WordPress language through translation.
+- Default settings follow a change of site language.
+- An optional "Powered by" link, off until the site owner switches it on.
+- The free plugin passes WordPress's Plugin Check with no errors.
+
 ## 1.3.1: Aivanta Chat
 
 - New name and logo, in the dashboard menu, page headers and License page.
