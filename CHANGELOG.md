@@ -1,5 +1,14 @@
 # Changelog
 
+## Free 1.6.0 and Pro 1.2.0: border types, inside gradient, animations for phones
+
+- **Border types:** gradient, solid, dashed, dotted, double and neon, each with a live demo card.
+- **Inside the button:** a two-colour gradient, beside the theme colour, your own colour and transparent.
+- **Animation colour (Pro):** ripples, glow, orbit, comet spark and shine can take their own colour instead of the border's.
+- **Phones (Pro):** their own animation, or none, separate from computers.
+- **Five new animations (Pro):** Heartbeat, Breathing glow, Attention bounce, Orbit and Shine sweep. Ten in all.
+- Fixed: Floating no longer shows a dark edge under the button as it rises.
+
 ## Free 1.5.0 and Pro 1.1.0: a new forms page, products, answers and gradients
 
 - **Forms redesigned.** Three columns: your forms, the open form, and a live preview of it in the chat. New forms start from a template (quote, appointment, question, callback, support or blank), each form's icon is picked from a gallery, steps come from a visual gallery, and a short guide explains how it all fits together.

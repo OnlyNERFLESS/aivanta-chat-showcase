@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <b>Free 1.5.0</b> · <b>Pro add-on 1.1.0</b> · WordPress 5.3+ · PHP 7.2+ · Follows your WordPress language
+  <b>Free 1.6.0</b> · <b>Pro add-on 1.2.0</b> · WordPress 5.3+ · PHP 7.2+ · Follows your WordPress language
 </p>
 
 ---
@@ -41,12 +41,12 @@ The free plugin is complete on its own. Pro is an add-on that installs beside it
 | Unlimited forms and requests | ✓ | ✓ |
 | Contact buttons and bottom bar with brand icons | ✓ | ✓ |
 | Requests saved in WordPress and emailed | ✓ | ✓ |
-| Colour and gradient themes, button shapes, phone settings, Custom CSS | ✓ | ✓ |
+| Colour and gradient themes, button shapes, six border types, inside colour or gradient, phone settings, Custom CSS | ✓ | ✓ |
 | Follows your WordPress language, including right-to-left | ✓ | ✓ |
 | AI answers with your own Claude or OpenAI key | | ✓ |
 | Ready answers with synonyms, typo tolerance and trigger words in other languages | | ✓ |
 | Products & categories: your own or live from WooCommerce, with price, offer, tags and a buy button | | ✓ |
-| Five button animations | | ✓ |
+| Ten button animations in your own colour, with a separate choice for phones | | ✓ |
 | No "Powered by" link (opt-in on Free) | | ✓ |
 
 <img src="media/plans.png" alt="The License page with the Free and Pro plans">
@@ -83,11 +83,25 @@ An overview with requests per day, top forms, products and countries, and a chec
 
 Every change shows instantly on a light page, a dark page and a phone, drawn with the same stylesheet visitors get.
 
-### Shapes and animations
+### The chat button
 
 <img src="media/button-templates.png" alt="Shape and animation picker cards, each with a live demo">
 
-Three shapes on Free. Pro adds five animations: Spinning border, Floating, Ripple rings, Comet and Hello wave.
+Three shapes and six border types on Free: gradient, solid, dashed, dotted, double and neon. Every card is a live demo of the real button.
+
+<img src="media/border-types.png" alt="Border type cards: gradient, solid, dashed, dotted, double and neon">
+
+Inside the border: the theme's own colour, a colour of your choice, a two-colour gradient, or transparent.
+
+<img src="media/inside-button.png" alt="Inside the button: from the theme, a colour, gradient or transparent">
+
+### Animations (Pro)
+
+<img src="media/animations.png" alt="Ten animation cards, each with a live demo">
+
+Ten animations: Spinning border, Floating, Ripple rings, Comet, Hello wave, Heartbeat, Breathing glow, Attention bounce, Orbit and Shine sweep. They can take their own colour, and phones can run a different animation, or none.
+
+<img src="media/phone-animation.png" alt="Choosing a separate animation for phones">
 
 ### Forms
 
