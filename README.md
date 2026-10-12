@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="media/aivanta-logo.svg" width="120" alt="Aivanta Chat logo">
+  <img src="media/avinta-logo.svg" width="120" alt="Avinta Chat logo">
 </p>
 
-<h1 align="center">Aivanta Chat</h1>
+<h1 align="center">Avinta Chat</h1>
 
 <p align="center">
   A chat assistant for WordPress that guides visitors through your own forms<br>
@@ -10,13 +10,13 @@
 </p>
 
 <p align="center">
-  <b>Free 1.8.0</b> · <b>Pro add-on 1.4.0</b> · WordPress 5.3+ · PHP 7.2+ · Follows your WordPress language
+  <b>Free 1.9.0</b> · <b>Pro add-on 1.5.0</b> · WordPress 5.3+ · PHP 7.2+ · Follows your WordPress language
 </p>
 
 ---
 
 > **This repository is a showcase.** It documents the plugin and its progress.
-> The source code is private. If you'd like Aivanta Chat on your site, see [Get it](#get-it).
+> The source code is private. If you'd like Avinta Chat on your site, see [Get it](#get-it).
 
 <p align="center">
   <img src="media/chat-desktop.png" width="380" alt="The chat window with contact buttons and a bottom bar">
@@ -161,7 +161,7 @@ See the [changelog](CHANGELOG.md) for what changed in each release.
 
 ## Get it
 
-Pro, pricing and downloads: **[digidev.pro/aivanta-chat](https://digidev.pro/aivanta-chat)**.
+Pro, pricing and downloads: **[digidev.pro/avinta-chat](https://digidev.pro/avinta-chat)**.
 
 For a demo or a setup on your site, email **[Chaosmp81@gmail.com](mailto:Chaosmp81@gmail.com)**.
 
