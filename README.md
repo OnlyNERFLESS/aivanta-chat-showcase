@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <b>Free 1.7.0</b> · <b>Pro add-on 1.3.0</b> · WordPress 5.3+ · PHP 7.2+ · Follows your WordPress language
+  <b>Free 1.8.0</b> · <b>Pro add-on 1.4.0</b> · WordPress 5.3+ · PHP 7.2+ · Follows your WordPress language
 </p>
 
 ---
@@ -46,7 +46,8 @@ The free plugin is complete on its own. Pro is an add-on that installs beside it
 | AI answers with your own Claude or OpenAI key | | ✓ |
 | Ready answers with synonyms, typo tolerance and trigger words in other languages | | ✓ |
 | Products & categories: your own or live from WooCommerce, with price, offer, tags and a buy button | | ✓ |
-| Ten button animations in your own colour, with a separate choice for phones | | ✓ |
+| Five button animations | ✓ | ✓ |
+| Five more animations in your own colour, with a separate choice for phones | | ✓ |
 | No "Powered by" link (opt-in on Free) | | ✓ |
 
 <img src="media/plans.png" alt="The License page with the Free and Pro plans">
@@ -79,7 +80,7 @@ Every change shows instantly on a light page, a dark page, a phone and the open 
 
 <p align="center"><img src="media/chat-preview.png" width="300" alt="The live preview showing the open chat window"></p>
 
-On Free, Pro animations can be picked to preview them before deciding, and each Pro screen shows a picture of how it looks with Pro.
+On Free, each Pro animation shows as a card with a looping preview, and each Pro screen shows a picture of how it looks with Pro.
 
 <img src="media/pro-preview.png" alt="The Answers screen on Free: the Pro panel with a preview picture">
 
@@ -95,11 +96,13 @@ Inside the border: the theme's own colour, a colour of your choice, a two-colour
 
 <img src="media/inside-button.png" alt="Inside the button: from the theme, a colour, gradient or transparent">
 
-### Animations (Pro)
+### Animations
 
 <img src="media/animations.png" alt="Ten animation cards, each with a live demo">
 
-Ten animations: Spinning border, Floating, Ripple rings, Comet, Hello wave, Heartbeat, Breathing glow, Attention bounce, Orbit and Shine sweep. They can take their own colour, and phones can run a different animation, or none.
+Five animations come free: Spinning border, Floating, Ripple rings, Comet and Hello wave. Pro adds Heartbeat, Breathing glow, Attention bounce, Orbit and Shine sweep, an animation colour of your own, and a separate animation for phones.
+
+<img src="media/free-animations.png" alt="On Free: five animations, and Pro's five as preview cards">
 
 <img src="media/phone-animation.png" alt="Choosing a separate animation for phones">
 
@@ -158,8 +161,9 @@ See the [changelog](CHANGELOG.md) for what changed in each release.
 
 ## Get it
 
-Aivanta Chat is **available on request**. For pricing, a demo, or a setup on your site, email
-**[Chaosmp81@gmail.com](mailto:Chaosmp81@gmail.com)**.
+Pro, pricing and downloads: **[digidev.pro/aivanta-chat](https://digidev.pro/aivanta-chat)**.
+
+For a demo or a setup on your site, email **[Chaosmp81@gmail.com](mailto:Chaosmp81@gmail.com)**.
 
 ---
 

@@ -1,5 +1,12 @@
 # Changelog
 
+## Free 1.8.0 and Pro 1.4.0: five animations free
+
+- **Five button animations are free:** Spinning border, Floating, Ripple rings, Comet and Hello wave.
+- **Pro** keeps Heartbeat, Breathing glow, Attention bounce, Orbit and Shine sweep, the animation colour and the phone animation, now carried entirely by the add-on. On Free they show as cards with a looping preview.
+- **Category and product steps** are open to every form; with no products listed the chat skips them.
+- **Get Pro** links go to digidev.pro/aivanta-chat.
+
 ## Free 1.7.0 and Pro 1.3.0: chat window preview, Pro previews
 
 - **Live chat window preview** under Appearance, beside the button and phone previews. It follows every colour and gradient as you change it.
