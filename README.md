@@ -61,13 +61,7 @@ Fill in the channels you use, then choose which appear as **contact buttons** (w
 
 <img src="media/channels.png" alt="Channel addresses, each with its brand icon">
 
-## Your language
-
-<p align="center">
-  <img src="media/rtl-chat.png" width="320" alt="The chat on a right-to-left site">
-</p>
-
-<img src="media/rtl-dashboard.png" alt="The dashboard in a right-to-left language">
+## Multi-language support
 
 The plugin follows the language set in WordPress, including right-to-left languages, and can be translated into any language.
 
