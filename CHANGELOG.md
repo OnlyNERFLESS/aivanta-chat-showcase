@@ -1,5 +1,12 @@
 # Changelog
 
+## Free 1.7.0 and Pro 1.3.0: chat window preview, Pro previews
+
+- **Live chat window preview** under Appearance, beside the button and phone previews. It follows every colour and gradient as you change it.
+- **Preview Pro on Free:** pick any Pro animation, or a phone animation, to see it play. It is not saved without Pro.
+- **Pro screens** (Products, Answers, AI answers) show a picture of how they look with Pro.
+- **New section bar** on Customize and Forms, with an icon for each section.
+
 ## Free 1.6.0 and Pro 1.2.0: border types, inside gradient, animations for phones
 
 - **Border types:** gradient, solid, dashed, dotted, double and neon, each with a live demo card.

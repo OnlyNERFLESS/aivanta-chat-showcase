@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <b>Free 1.6.0</b> · <b>Pro add-on 1.2.0</b> · WordPress 5.3+ · PHP 7.2+ · Follows your WordPress language
+  <b>Free 1.7.0</b> · <b>Pro add-on 1.3.0</b> · WordPress 5.3+ · PHP 7.2+ · Follows your WordPress language
 </p>
 
 ---
@@ -81,7 +81,13 @@ An overview with requests per day, top forms, products and countries, and a chec
 
 <img src="media/appearance.png" alt="Appearance settings with a live preview on a light page, a dark page and a phone">
 
-Every change shows instantly on a light page, a dark page and a phone, drawn with the same stylesheet visitors get.
+Every change shows instantly on a light page, a dark page, a phone and the open chat window, drawn with the same markup and stylesheet visitors get.
+
+<p align="center"><img src="media/chat-preview.png" width="300" alt="The live preview showing the open chat window"></p>
+
+On Free, Pro animations can be picked to preview them before deciding, and each Pro screen shows a picture of how it looks with Pro.
+
+<img src="media/pro-preview.png" alt="The Answers screen on Free: the Pro panel with a preview picture">
 
 ### The chat button
 
