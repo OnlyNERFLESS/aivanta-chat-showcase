@@ -1,15 +1,16 @@
 # Changelog
 
-## Free 1.9.0 and Pro 1.5.0: a new name
+## Free 2.0.0 and Pro 2.0.0: Aluvo Chat
 
-- **Aivanta Chat is now Avinta Chat**, with a name of its own on WordPress.org. The plugin works the same; its address is avinta-chat.
+- **The plugin is now Aluvo Chat** (formerly Aivanta Chat), a name of its own on WordPress.org. Its address is aluvo-chat.
+- **Custom CSS moves to Pro**, with its guide to every selector. WordPress.org does not allow free plugins to store custom CSS; every design option stays free.
 
 ## Free 1.8.0 and Pro 1.4.0: five animations free
 
 - **Five button animations are free:** Spinning border, Floating, Ripple rings, Comet and Hello wave.
 - **Pro** keeps Heartbeat, Breathing glow, Attention bounce, Orbit and Shine sweep, the animation colour and the phone animation, now carried entirely by the add-on. On Free they show as cards with a looping preview.
 - **Category and product steps** are open to every form; with no products listed the chat skips them.
-- **Get Pro** links go to digidev.pro/avinta-chat.
+- **Get Pro** links go to digidev.pro/aluvo-chat.
 
 ## Free 1.7.0 and Pro 1.3.0: chat window preview, Pro previews
 
@@ -41,13 +42,13 @@
 ## Free 1.4.0 and Pro 1.0.0: channels, languages, Free and Pro
 
 - Contact channels: WhatsApp, Telegram, Facebook, Instagram, LinkedIn, Discord, GitHub, email and a custom link, each with its brand icon. Choose the contact buttons and up to three for the bottom bar.
-- Free and Pro: AI answers, ready answers, products and categories and button animations move to the new Avinta Chat Pro add-on, unlocked by a license key checked offline.
+- Free and Pro: AI answers, ready answers, products and categories and button animations move to the new Aluvo Chat Pro add-on, unlocked by a license key checked offline.
 - Translations with right-to-left layout; every WordPress language through translation.
 - Default settings follow a change of site language.
 - An optional "Powered by" link, off until the site owner switches it on.
 - The free plugin passes WordPress's Plugin Check with no errors.
 
-## 1.3.1: Avinta Chat
+## 1.3.1: Aluvo Chat
 
 - New name and logo, in the dashboard menu, page headers and License page.
 - A clean default template: general forms, starter answers, and the new logo as the default chat icon.

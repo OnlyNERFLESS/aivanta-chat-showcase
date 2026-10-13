@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="media/avinta-logo.svg" width="120" alt="Avinta Chat logo">
+  <img src="media/aluvo-logo.svg" width="120" alt="Aluvo Chat logo">
 </p>
 
-<h1 align="center">Avinta Chat</h1>
+<h1 align="center">Aluvo Chat</h1>
 
 <p align="center">
   A chat assistant for WordPress that guides visitors through your own forms<br>
@@ -10,13 +10,13 @@
 </p>
 
 <p align="center">
-  <b>Free 1.9.0</b> · <b>Pro add-on 1.5.0</b> · WordPress 5.3+ · PHP 7.2+ · Follows your WordPress language
+  <b>Free 2.0.0</b> · <b>Pro add-on 2.0.0</b> · WordPress 5.3+ · PHP 7.2+ · Follows your WordPress language
 </p>
 
 ---
 
 > **This repository is a showcase.** It documents the plugin and its progress.
-> The source code is private. If you'd like Avinta Chat on your site, see [Get it](#get-it).
+> The source code is private. If you'd like Aluvo Chat on your site, see [Get it](#get-it).
 
 <p align="center">
   <img src="media/chat-desktop.png" width="380" alt="The chat window with contact buttons and a bottom bar">
@@ -41,13 +41,14 @@ The free plugin is complete on its own. Pro is an add-on that installs beside it
 | Unlimited forms and requests | ✓ | ✓ |
 | Contact buttons and bottom bar with brand icons | ✓ | ✓ |
 | Requests saved in WordPress and emailed | ✓ | ✓ |
-| Colour and gradient themes, button shapes, six border types, inside colour or gradient, phone settings, Custom CSS | ✓ | ✓ |
+| Colour and gradient themes, button shapes, six border types, inside colour or gradient, phone settings | ✓ | ✓ |
 | Follows your WordPress language, including right-to-left | ✓ | ✓ |
 | AI answers with your own Claude or OpenAI key | | ✓ |
 | Ready answers with synonyms, typo tolerance and trigger words in other languages | | ✓ |
 | Products & categories: your own or live from WooCommerce, with price, offer, tags and a buy button | | ✓ |
 | Five button animations | ✓ | ✓ |
 | Five more animations in your own colour, with a separate choice for phones | | ✓ |
+| Custom CSS with a guide to every selector | | ✓ |
 | No "Powered by" link (opt-in on Free) | | ✓ |
 
 <img src="media/plans.png" alt="The License page with the Free and Pro plans">
@@ -141,7 +142,7 @@ Each answer reads like the chat itself. Trigger words are chips, and words in ot
 
 Solid and gradient themes, or your own two colours and angle. The gradient runs across the header, the buttons and the visitor's messages. The inside of the chat button can follow the theme, take any colour, or be transparent.
 
-### Custom CSS with a built-in guide
+### Custom CSS with a built-in guide (Pro)
 
 <img src="media/custom-css.png" alt="The Custom CSS box and its list of selectors with Insert buttons">
 
@@ -161,7 +162,7 @@ See the [changelog](CHANGELOG.md) for what changed in each release.
 
 ## Get it
 
-Pro, pricing and downloads: **[digidev.pro/avinta-chat](https://digidev.pro/avinta-chat)**.
+Pro, pricing and downloads: **[digidev.pro/aluvo-chat](https://digidev.pro/aluvo-chat)**.
 
 For a demo or a setup on your site, email **[Chaosmp81@gmail.com](mailto:Chaosmp81@gmail.com)**.
 
